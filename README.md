@@ -62,7 +62,7 @@ I'm a **Full Stack Developer** with 3-4 years of experience building modern, sca
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejidev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dejidev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+## ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dejidev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dejidev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
@@ -86,12 +86,4 @@ I'm always interested in hearing about new opportunities, collaborations, or jus
 - 📧 [Email](mailto:adetayoayodeji7@gmail.com)
 - 💻 [LeetCode](https://www.leetcode.com/adetayoayodeji7)
 
----
 
-<div align="center">
-  
-### 💬 "Building the future, one commit at a time"
-
-![Profile Views](https://komarev.com/ghpvc/?username=dejidev&color=00D9FF&style=for-the-badge)
-
-</div>
